@@ -1,0 +1,29 @@
+
+.carousel-wrapper{
+    width: 100%;
+}
+.element .style{
+    margin:0;
+}
+
+/* .carusel{
+    width: 100x;
+    height: 450px;
+    background-color: black;
+    margin: 20px;
+}
+
+.caruselInner{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    display: flex;
+}
+
+.caruselInner .left{
+    flex: 5%;
+    height: 100%;
+} */
